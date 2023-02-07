@@ -1,4 +1,4 @@
-package com.lobato.convidados.ui
+package com.lobato.convidados.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
